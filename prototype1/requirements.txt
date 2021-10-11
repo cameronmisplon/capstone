@@ -1,0 +1,2 @@
+pymoo
+mysql-connector-python
